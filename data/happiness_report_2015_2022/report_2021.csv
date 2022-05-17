@@ -1,0 +1,150 @@
+,Unnamed: 0,Happiness Rank,Country,Region,Happiness Score,Economy (GDP per Capita),Family (Social Support),Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity,Year
+934,0,1,Finland,Western Europe,7.842,1.446,1.106,0.741,0.691,0.481,0.124,2021
+935,1,2,Denmark,Western Europe,7.62,1.502,1.108,0.763,0.686,0.485,0.208,2021
+936,2,3,Switzerland,Western Europe,7.571,1.566,1.079,0.816,0.653,0.413,0.204,2021
+937,3,4,Iceland,Western Europe,7.554,1.482,1.172,0.772,0.698,0.17,0.293,2021
+938,4,5,Netherlands,Western Europe,7.464,1.501,1.079,0.753,0.647,0.384,0.302,2021
+939,5,6,Norway,Western Europe,7.392,1.543,1.108,0.782,0.703,0.427,0.249,2021
+940,6,7,Sweden,Western Europe,7.363,1.478,1.062,0.763,0.685,0.448,0.244,2021
+941,7,8,Luxembourg,Western Europe,7.324,1.751,1.003,0.76,0.639,0.353,0.166,2021
+942,8,9,New Zealand,North America and ANZ,7.277,1.4,1.094,0.785,0.665,0.445,0.276,2021
+943,9,10,Austria,Western Europe,7.268,1.492,1.062,0.782,0.64,0.292,0.215,2021
+944,10,11,Australia,North America and ANZ,7.183,1.453,1.076,0.801,0.647,0.317,0.291,2021
+945,11,12,Israel,Middle East and North Africa,7.157,1.376,1.074,0.788,0.509,0.119,0.208,2021
+946,12,13,Germany,Western Europe,7.155,1.48,0.993,0.757,0.6,0.306,0.195,2021
+947,13,14,Canada,North America and ANZ,7.103,1.447,1.044,0.798,0.648,0.335,0.246,2021
+948,14,15,Ireland,Western Europe,7.085,1.644,1.092,0.753,0.606,0.367,0.238,2021
+949,15,16,Costa Rica,Latin America and Caribbean,7.069,1.134,0.966,0.722,0.673,0.083,0.105,2021
+950,16,17,United Kingdom,Western Europe,7.064,1.423,1.062,0.757,0.58,0.306,0.34,2021
+951,17,18,Czech Republic,Central and Eastern Europe,6.965,1.37,1.09,0.703,0.58,0.046,0.052,2021
+952,18,19,United States,North America and ANZ,6.951,1.533,1.03,0.621,0.554,0.154,0.252,2021
+953,19,20,Belgium,Western Europe,6.834,1.463,0.998,0.747,0.489,0.187,0.088,2021
+954,20,21,France,Western Europe,6.69,1.421,1.081,0.804,0.536,0.235,0.092,2021
+955,21,22,Bahrain,Middle East and North Africa,6.647,1.409,0.899,0.662,0.661,0.139,0.246,2021
+956,22,23,Malta,Western Europe,6.602,1.411,1.055,0.747,0.664,0.183,0.275,2021
+957,23,24,Taiwan Province of China,East Asia,6.584,1.48,0.982,0.665,0.49,0.139,0.142,2021
+958,24,25,United Arab Emirates,Middle East and North Africa,6.561,1.555,0.86,0.594,0.67,0.223,0.236,2021
+959,25,26,Saudi Arabia,Middle East and North Africa,6.494,1.435,0.964,0.571,0.603,0.163,0.09,2021
+960,26,27,Spain,Western Europe,6.491,1.375,1.057,0.826,0.462,0.124,0.135,2021
+961,27,28,Italy,Western Europe,6.483,1.393,0.94,0.798,0.379,0.047,0.133,2021
+962,28,29,Slovenia,Central and Eastern Europe,6.461,1.36,1.093,0.722,0.69,0.085,0.122,2021
+963,29,30,Guatemala,Latin America and Caribbean,6.435,0.845,0.79,0.519,0.638,0.105,0.163,2021
+964,30,31,Uruguay,Latin America and Caribbean,6.431,1.164,1.042,0.649,0.625,0.223,0.128,2021
+965,31,32,Singapore,Southeast Asia,6.377,1.695,1.019,0.897,0.664,0.547,0.176,2021
+966,32,33,Kosovo,Central and Eastern Europe,6.372,0.937,0.807,0.483,0.593,0.014,0.356,2021
+967,33,34,Slovakia,Central and Eastern Europe,6.331,1.304,1.066,0.653,0.468,0.018,0.107,2021
+968,34,35,Brazil,Latin America and Caribbean,6.33,1.028,0.944,0.571,0.514,0.117,0.142,2021
+969,35,36,Mexico,Latin America and Caribbean,6.317,1.126,0.83,0.634,0.585,0.089,0.092,2021
+970,36,37,Jamaica,Latin America and Caribbean,6.309,0.891,0.932,0.599,0.618,0.035,0.099,2021
+971,37,38,Lithuania,Central and Eastern Europe,6.255,1.35,1.065,0.612,0.476,0.073,0.056,2021
+972,38,39,Cyprus,Western Europe,6.223,1.377,0.765,0.801,0.464,0.061,0.178,2021
+973,39,40,Estonia,Central and Eastern Europe,6.189,1.344,1.079,0.64,0.641,0.263,0.119,2021
+974,40,41,Panama,Latin America and Caribbean,6.18,1.298,0.976,0.667,0.596,0.053,0.079,2021
+975,41,42,Uzbekistan,Commonwealth of Independent States,6.179,0.769,1.027,0.528,0.716,0.271,0.391,2021
+976,42,43,Chile,Latin America and Caribbean,6.172,1.2,0.946,0.678,0.438,0.07,0.159,2021
+977,43,44,Poland,Central and Eastern Europe,6.166,1.309,0.982,0.668,0.558,0.13,0.08,2021
+978,44,45,Kazakhstan,Commonwealth of Independent States,6.152,1.23,1.103,0.527,0.573,0.132,0.143,2021
+979,45,46,Romania,Central and Eastern Europe,6.14,1.275,0.832,0.595,0.564,0.001,0.045,2021
+980,46,47,Kuwait,Middle East and North Africa,6.106,1.461,0.857,0.58,0.591,0.13,0.12,2021
+981,47,48,Serbia,Central and Eastern Europe,6.078,1.101,0.924,0.634,0.482,0.066,0.189,2021
+982,48,49,El Salvador,Latin America and Caribbean,6.061,0.845,0.675,0.565,0.615,0.16,0.116,2021
+983,49,50,Mauritius,Sub-Saharan Africa,6.049,1.178,0.996,0.574,0.59,0.096,0.153,2021
+984,50,51,Latvia,Central and Eastern Europe,6.032,1.285,1.047,0.587,0.405,0.089,0.082,2021
+985,51,52,Colombia,Latin America and Caribbean,6.012,1.021,0.866,0.615,0.554,0.063,0.1,2021
+986,52,53,Hungary,Central and Eastern Europe,5.992,1.301,1.083,0.615,0.454,0.04,0.067,2021
+987,53,54,Thailand,Southeast Asia,5.985,1.107,0.957,0.596,0.611,0.028,0.375,2021
+988,54,55,Nicaragua,Latin America and Caribbean,5.972,0.693,0.904,0.604,0.553,0.176,0.201,2021
+989,55,56,Japan,East Asia,5.94,1.389,0.949,0.838,0.504,0.192,0.02,2021
+990,56,57,Argentina,Latin America and Caribbean,5.929,1.162,0.98,0.646,0.544,0.067,0.069,2021
+991,57,58,Portugal,Western Europe,5.929,1.323,0.939,0.76,0.621,0.033,0.029,2021
+992,58,59,Honduras,Latin America and Caribbean,5.919,0.703,0.787,0.593,0.578,0.083,0.241,2021
+993,59,60,Croatia,Central and Eastern Europe,5.882,1.251,1.039,0.703,0.453,0.0,0.111,2021
+994,60,61,Philippines,Southeast Asia,5.88,0.853,0.828,0.426,0.651,0.126,0.125,2021
+995,61,62,South Korea,East Asia,5.845,1.403,0.758,0.801,0.353,0.135,0.134,2021
+996,62,63,Peru,Latin America and Caribbean,5.84,0.986,0.833,0.623,0.536,0.031,0.087,2021
+997,63,64,Bosnia and Herzegovina,Central and Eastern Europe,5.813,1.032,0.919,0.618,0.395,0.005,0.261,2021
+998,64,65,Moldova,Commonwealth of Independent States,5.766,0.985,0.888,0.542,0.536,0.013,0.137,2021
+999,65,66,Ecuador,Latin America and Caribbean,5.764,0.935,0.806,0.64,0.56,0.062,0.107,2021
+1000,66,67,Kyrgyzstan,Commonwealth of Independent States,5.744,0.665,0.971,0.501,0.673,0.02,0.266,2021
+1001,67,68,Greece,Western Europe,5.723,1.273,0.811,0.76,0.243,0.074,0.0,2021
+1002,68,69,Bolivia,Latin America and Caribbean,5.716,0.842,0.782,0.486,0.6,0.064,0.138,2021
+1003,69,70,Mongolia,East Asia,5.677,0.966,1.065,0.442,0.397,0.053,0.263,2021
+1004,70,71,Paraguay,Latin America and Caribbean,5.653,0.983,0.97,0.549,0.602,0.037,0.206,2021
+1005,71,72,Montenegro,Central and Eastern Europe,5.581,1.155,0.891,0.637,0.397,0.081,0.166,2021
+1006,72,73,Dominican Republic,Latin America and Caribbean,5.545,1.106,0.879,0.555,0.581,0.144,0.101,2021
+1007,73,74,North Cyprus,Western Europe,5.536,1.377,0.806,0.801,0.503,0.2,0.196,2021
+1008,74,75,Belarus,Commonwealth of Independent States,5.534,1.124,1.007,0.56,0.326,0.199,0.07,2021
+1009,75,76,Russia,Commonwealth of Independent States,5.477,1.241,0.992,0.511,0.409,0.06,0.115,2021
+1010,76,77,Hong Kong S.A.R. of China,East Asia,5.477,1.525,0.841,0.893,0.408,0.342,0.232,2021
+1011,77,78,Tajikistan,Commonwealth of Independent States,5.466,0.508,0.895,0.498,0.548,0.247,0.152,2021
+1012,78,79,Vietnam,Southeast Asia,5.411,0.817,0.873,0.616,0.679,0.091,0.124,2021
+1013,79,80,Libya,Middle East and North Africa,5.41,1.044,0.821,0.435,0.474,0.174,0.131,2021
+1014,80,81,Malaysia,Southeast Asia,5.384,1.259,0.797,0.587,0.624,0.064,0.27,2021
+1015,81,82,Indonesia,Southeast Asia,5.345,0.954,0.786,0.433,0.598,0.046,0.541,2021
+1016,82,83,Congo (Brazzaville),Sub-Saharan Africa,5.342,0.518,0.392,0.307,0.381,0.124,0.144,2021
+1017,83,84,China,East Asia,5.339,1.061,0.785,0.665,0.636,0.117,0.093,2021
+1018,84,85,Ivory Coast,Sub-Saharan Africa,5.306,0.669,0.409,0.052,0.438,0.092,0.177,2021
+1019,85,86,Armenia,Commonwealth of Independent States,5.283,0.996,0.758,0.585,0.54,0.198,0.079,2021
+1020,86,87,Nepal,South Asia,5.269,0.519,0.702,0.496,0.488,0.135,0.287,2021
+1021,87,88,Bulgaria,Central and Eastern Europe,5.266,1.181,1.055,0.583,0.494,0.005,0.125,2021
+1022,88,89,Maldives,South Asia,5.198,1.115,1.015,0.697,0.575,0.073,0.204,2021
+1023,89,90,Azerbaijan,Commonwealth of Independent States,5.171,1.025,0.841,0.541,0.526,0.276,0.043,2021
+1024,90,91,Cameroon,Sub-Saharan Africa,5.142,0.543,0.556,0.159,0.425,0.058,0.205,2021
+1025,91,92,Senegal,Sub-Saharan Africa,5.132,0.518,0.558,0.357,0.381,0.088,0.158,2021
+1026,92,93,Albania,Central and Eastern Europe,5.117,1.008,0.529,0.646,0.491,0.024,0.168,2021
+1027,93,94,North Macedonia,Central and Eastern Europe,5.101,1.068,0.772,0.535,0.45,0.022,0.212,2021
+1028,94,95,Ghana,Sub-Saharan Africa,5.088,0.68,0.595,0.287,0.517,0.058,0.268,2021
+1029,95,96,Niger,Sub-Saharan Africa,5.074,0.162,0.402,0.167,0.516,0.157,0.2,2021
+1030,96,97,Turkmenistan,Commonwealth of Independent States,5.066,1.046,1.172,0.439,0.602,0.033,0.366,2021
+1031,97,98,Gambia,Sub-Saharan Africa,5.051,0.367,0.511,0.21,0.384,0.123,0.465,2021
+1032,98,99,Benin,Sub-Saharan Africa,5.045,0.507,0.058,0.196,0.457,0.178,0.166,2021
+1033,99,100,Laos,Southeast Asia,5.03,0.808,0.598,0.33,0.643,0.179,0.268,2021
+1034,100,101,Bangladesh,South Asia,5.025,0.635,0.52,0.514,0.603,0.164,0.161,2021
+1035,101,102,Guinea,Sub-Saharan Africa,4.984,0.42,0.399,0.206,0.384,0.111,0.25,2021
+1036,102,103,South Africa,Sub-Saharan Africa,4.956,0.967,0.895,0.265,0.447,0.051,0.144,2021
+1037,103,104,Turkey,Middle East and North Africa,4.948,1.26,0.809,0.59,0.236,0.104,0.097,2021
+1038,104,105,Pakistan,South Asia,4.934,0.637,0.423,0.322,0.418,0.097,0.252,2021
+1039,105,106,Morocco,Middle East and North Africa,4.918,0.792,0.219,0.558,0.477,0.088,0.034,2021
+1040,106,107,Venezuela,Latin America and Caribbean,4.892,0.852,0.897,0.574,0.284,0.072,0.078,2021
+1041,107,108,Georgia,Commonwealth of Independent States,4.891,1.03,0.47,0.498,0.488,0.181,0.032,2021
+1042,108,109,Algeria,Middle East and North Africa,4.887,0.946,0.765,0.552,0.119,0.12,0.144,2021
+1043,109,110,Ukraine,Commonwealth of Independent States,4.875,0.979,0.958,0.517,0.417,0.01,0.181,2021
+1044,110,111,Iraq,Middle East and North Africa,4.854,0.91,0.638,0.381,0.302,0.041,0.153,2021
+1045,111,112,Gabon,Sub-Saharan Africa,4.852,1.037,0.707,0.362,0.424,0.064,0.058,2021
+1046,112,113,Burkina Faso,Sub-Saharan Africa,4.834,0.364,0.472,0.179,0.381,0.122,0.182,2021
+1047,113,114,Cambodia,Southeast Asia,4.83,0.603,0.68,0.426,0.702,0.061,0.21,2021
+1048,114,115,Mozambique,Sub-Saharan Africa,4.794,0.183,0.634,0.196,0.608,0.163,0.228,2021
+1049,115,116,Nigeria,Sub-Saharan Africa,4.759,0.663,0.625,0.051,0.433,0.039,0.212,2021
+1050,116,117,Mali,Sub-Saharan Africa,4.723,0.387,0.59,0.11,0.384,0.072,0.164,2021
+1051,117,118,Iran,Middle East and North Africa,4.721,1.03,0.557,0.561,0.275,0.144,0.33,2021
+1052,118,119,Uganda,Sub-Saharan Africa,4.636,0.364,0.718,0.24,0.398,0.054,0.267,2021
+1053,119,120,Liberia,Sub-Saharan Africa,4.625,0.228,0.58,0.253,0.43,0.057,0.221,2021
+1054,120,121,Kenya,Sub-Saharan Africa,4.607,0.603,0.508,0.385,0.483,0.073,0.375,2021
+1055,121,122,Tunisia,Middle East and North Africa,4.596,0.919,0.515,0.59,0.334,0.044,0.057,2021
+1056,122,123,Lebanon,Middle East and North Africa,4.584,1.045,0.868,0.595,0.175,0.026,0.14,2021
+1057,123,124,Namibia,Sub-Saharan Africa,4.574,0.882,0.801,0.262,0.411,0.059,0.091,2021
+1058,124,125,Palestinian Territories,Middle East and North Africa,4.517,0.646,0.819,0.434,0.33,0.075,0.082,2021
+1059,125,126,Myanmar,Southeast Asia,4.426,0.666,0.713,0.341,0.601,0.178,0.52,2021
+1060,126,127,Jordan,Middle East and North Africa,4.395,0.89,0.685,0.583,0.455,0.15,0.079,2021
+1061,127,128,Chad,Sub-Saharan Africa,4.355,0.255,0.353,0.0,0.24,0.084,0.215,2021
+1062,128,129,Sri Lanka,South Asia,4.325,0.99,0.82,0.593,0.559,0.049,0.239,2021
+1063,129,130,Swaziland,Sub-Saharan Africa,4.308,0.849,0.693,0.074,0.323,0.147,0.067,2021
+1064,130,131,Comoros,Sub-Saharan Africa,4.289,0.488,0.367,0.279,0.202,0.101,0.241,2021
+1065,131,132,Egypt,Middle East and North Africa,4.283,0.954,0.647,0.426,0.446,0.092,0.069,2021
+1066,132,133,Ethiopia,Sub-Saharan Africa,4.275,0.37,0.679,0.331,0.451,0.114,0.241,2021
+1067,133,134,Mauritania,Sub-Saharan Africa,4.227,0.666,0.749,0.273,0.218,0.133,0.119,2021
+1068,134,135,Madagascar,Sub-Saharan Africa,4.208,0.266,0.503,0.341,0.207,0.087,0.185,2021
+1069,135,136,Togo,Sub-Saharan Africa,4.107,0.254,0.239,0.203,0.289,0.107,0.209,2021
+1070,136,137,Zambia,Sub-Saharan Africa,4.073,0.528,0.552,0.231,0.487,0.074,0.227,2021
+1071,137,138,Sierra Leone,Sub-Saharan Africa,3.849,0.279,0.377,0.1,0.408,0.047,0.243,2021
+1072,138,139,India,South Asia,3.819,0.741,0.316,0.383,0.622,0.106,0.246,2021
+1073,139,140,Burundi,Sub-Saharan Africa,3.775,0.0,0.062,0.155,0.298,0.212,0.172,2021
+1074,140,141,Yemen,Middle East and North Africa,3.658,0.329,0.831,0.272,0.268,0.089,0.092,2021
+1075,141,142,Tanzania,Sub-Saharan Africa,3.623,0.433,0.54,0.3,0.549,0.231,0.307,2021
+1076,142,143,Haiti,Latin America and Caribbean,3.615,0.294,0.173,0.227,0.257,0.139,0.463,2021
+1077,143,144,Malawi,Sub-Saharan Africa,3.6,0.113,0.168,0.298,0.484,0.134,0.213,2021
+1078,144,145,Lesotho,Sub-Saharan Africa,3.512,0.451,0.731,0.007,0.405,0.015,0.103,2021
+1079,145,146,Botswana,Sub-Saharan Africa,3.467,1.099,0.724,0.34,0.539,0.088,0.027,2021
+1080,146,147,Rwanda,Sub-Saharan Africa,3.415,0.364,0.202,0.407,0.627,0.493,0.227,2021
+1081,147,148,Zimbabwe,Sub-Saharan Africa,3.145,0.457,0.649,0.243,0.359,0.075,0.157,2021
+1082,148,149,Afghanistan,South Asia,2.523,0.37,0.0,0.126,0.0,0.01,0.122,2021
