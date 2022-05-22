@@ -1,5 +1,5 @@
 import glob
-
+import re
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -13,8 +13,10 @@ class CoutriesDataValidator:
     """
 
     @staticmethod
-    def combine_df(folder_path):
-        """Combines csv files from given location into one data frame."""
+    def combine_df(folder_path: str)  -> pd.DataFrame:
+        """
+        Combines csv files from given location into one data frame.
+        """
         df_list = []
         for file in glob.glob(folder_path):
             df_list.append(pd.read_csv(file))
@@ -23,7 +25,10 @@ class CoutriesDataValidator:
 
     @staticmethod
     def clean_data(data_to_be_cleaned: pd.DataFrame, series_to_convert_to_floats: list, columns_to_remove: list, ) -> pd.DataFrame:
-        """Df cleaning method by removing given columns, converting str data to floats and strips country names from '*' """
+        """
+        Df cleaning method by removing given columns, converting str data to floats, enusres year is int
+        and strips country names from '*' 
+        """
         cleaned_data = data_to_be_cleaned
         #remove unwanted columns
         cleaned_data = cleaned_data.drop(columns_to_remove, axis=1)
@@ -33,6 +38,7 @@ class CoutriesDataValidator:
         cleaned_data[series_to_convert_to_floats] = \
             cleaned_data[series_to_convert_to_floats].apply(lambda col: col.astype(float))
         cleaned_data['Country'] = cleaned_data['Country'].apply(lambda col: col.strip('*'))
+        cleaned_data['Year'] = cleaned_data['Year'].apply(lambda col: col.astype(int))
         return cleaned_data
 
     @staticmethod
@@ -42,12 +48,12 @@ class CoutriesDataValidator:
         return grouped_data
 
     @staticmethod
-    def generate_correlations(df):
+    def generate_correlations(df: pd.DataFrame) -> pd.DataFrame:
         sns.pairplot(df, kind="scatter")
         plt.savefig('../data/correlation_fig.png')
     
     @staticmethod
-    def make_subplots_year_dependent(df):
+    def make_subplots_year_dependent(df: pd.DataFrame) -> pd.DataFrame:
         x = df['Year']      
         # making subplots
         fig, ax = plt.subplots(2, 3)
@@ -73,7 +79,7 @@ class CoutriesDataValidator:
         plt.show()
 
     @staticmethod    
-    def make_multiple_lines_plot(df, name):
+    def make_multiple_lines_plot(df: pd.DataFrame, name: str) -> pd.DataFrame:
         x = df['Year']
         plt.plot(x, df['Happiness Score'], label = "Happieness")
         plt.plot(x, df['Economy (GDP per Capita)'], label = "Economy")
@@ -82,6 +88,32 @@ class CoutriesDataValidator:
         plt.plot(x, df['Freedom'], label = "Freedom")
         plt.plot(x, df['Trust (Government Corruption)'], label = "Trust_gov")
         plt.title(name)
-
         plt.legend()
         plt.show()
+        
+    @staticmethod
+    def choose_your_country(most_important_rate: str, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Allows you to generate a data frame of the country with the best rate for the paramaeter that was given
+        """
+        
+        df = df[df['Year'] == df['Year'].max()]
+        if re.match(most_important_rate, 'Happiness Rank'):
+            return df[df['Happiness Rank'] == df['Happiness Rank'].min()]
+
+        for column in df.columns:
+            if re.match(most_important_rate, column):
+                return df[df[column] == df[column].max()]
+
+    @staticmethod
+    def compare_two_countries(df: pd.DataFrame, your_country: str, country_to_compare: str, year=None) -> pd.DataFrame:
+        """
+        This method generates df of two countries that was chosen to compare 
+        with data for all years from the report if year is None, or for given year
+        """
+        
+        if year is not None and year not in df['Year'].values:
+            raise ValueError(f'No data for year {year} ')
+        if year != None:
+            df = df[df['Year'] == year]
+        return df[(df['Country'] == your_country) | (df['Country'] == country_to_compare)]
