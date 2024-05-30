@@ -2,7 +2,7 @@
 ### data_preliminary_adventure
 This purpose of this repository is to help me start my adventure with data analysis
 
-# Analiza Danych 
+# Data Analysis 
 
 Report of analysis the 2015-2022 countries' happiness ranking data. 
 It consists of:
